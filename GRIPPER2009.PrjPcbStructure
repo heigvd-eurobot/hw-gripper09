@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=3.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=3.SchDoc|Designator=TWO MOTORS|SchDesignator=TWO MOTORS|FileName=5.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=5.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=3.SchDoc|Designator=TWO MOTORS1|SchDesignator=TWO MOTORS1|FileName=5.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=5.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=5.SchDoc|Designator=DRIVE|SchDesignator=DRIVE|FileName=4.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=4.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=5.SchDoc|Designator=DRIVE1|SchDesignator=DRIVE1|FileName=4.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=4.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=3.SchDoc|FileName=1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3.SchDoc|FileName=2.SchDoc|SheetNumber= 
